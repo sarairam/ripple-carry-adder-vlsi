@@ -1,8 +1,7 @@
 # 4-bit Ripple Carry Adder (VLSI)
 
 ## 📌 Description
-Designed a 4-bit Ripple Carry Adder using Cadence Virtuoso at transistor level to perform binary addition.
-
+Designed a 4-bit Ripple Carry Adder using Cadence Virtuoso at transistor level; verified through DRC and LVS checks ensuring layout correctness.
 ## 🛠 Tools Used
 - Cadence Virtuoso
 - CMOS Technology
